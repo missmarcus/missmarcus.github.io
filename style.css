@@ -15,3 +15,12 @@ h1 {
   font-size: 28px;
   Font-family: "Roboto"
 }
+
+#graphDiv {
+    background-color: #ffffff;
+}
+#graphDiv svg {
+    background-color: #f400d7;
+    height: 300px;
+    width: 629px;
+}
