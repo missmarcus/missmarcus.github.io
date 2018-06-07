@@ -22,5 +22,5 @@ h1 {
 #graphDiv svg {
     background-color: #f400d7;
     height: 300px;
-    width: 100vw;
+    width: 100%;
 }
