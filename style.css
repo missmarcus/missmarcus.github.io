@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-  background-color: #00f49c
+  background-color: #000000
     ;
 }
 p {
-  color: #f4f400;
+  color: #ffffff;
   font-size: 30px;
   font-family: "Quicksand"
 }
